@@ -1,7 +1,7 @@
 package Hospital.humanAbstractFactory;
 
 public class Human {
-    private String name;
+    private String humanName;
     private int health;
     private boolean isDead;
     private int id;
